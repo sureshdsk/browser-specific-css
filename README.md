@@ -49,5 +49,5 @@ Android  <br />
 Symbian  <br />
 Blackberry 	 <br />
 Windows phone      <br /> 
-More information:  
-<a href="http://www.cloudwark.in/browser-specific-css">here</a>
+<h3>More information:  </h3>
+<a href="http://www.cloudwark.in/browser-specific-css">read documentation</a>
