@@ -12,6 +12,7 @@ Internet Explorer 7	<br />
 Internet Explorer 8 <br />
 Internet Explorer 9 <br />
 Internet Explorer 10 <br />
+Internet Explorer 11 <br />
 Mozilla Firefox <br />
 Safari <br />
 Google Chrome <br />
@@ -31,7 +32,7 @@ Bolt <br />
 
 <h3>Operating systems:</h3>
 
-Windows (All windows os)   <br />    
+Windows (All windows os)   <br />
 Windows XP<br />
 Windows Vista	<br />
 Windows 7 <br />
@@ -48,6 +49,6 @@ iPod  <br />
 Android  <br />
 Symbian  <br />
 Blackberry 	 <br />
-Windows phone      <br /> 
+Windows phone      <br />
 <h3>More information:  </h3>
 <a href="http://www.cloudwark.in/browser-specific-css">read documentation</a>
