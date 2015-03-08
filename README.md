@@ -3,6 +3,8 @@ browser-specific-css
 
 Browser Specific Css is a javascript plugin that helps you to write css for specific Browsers, Devices and Operating systems. 	<br />
 
+[CSS Styling Guide](http://www.idiotinside.com/browser-specific-css/)
+
 This script helps to write css for the following
 
 <h3>Browsers:</h3>
@@ -51,4 +53,4 @@ Symbian  <br />
 Blackberry 	 <br />
 Windows phone      <br />
 <h3>More information:  </h3>
-<a href="http://www.cloudwark.in/browser-specific-css">read documentation</a>
+<a href="http://www.idiotinside.com/browser-specific-css/">read documentation</a>

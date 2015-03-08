@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Browser Specific CSS</title>
+</head>
+<style>
+#browserbox{ width:70%;height:250px; background:#444; color:#FFF; text-align:center; padding:40px;}
+.win.firefox #browserbox{ background:#E07629; }
+.win.chrome #browserbox{ background:#4BB549; }
+.win.safari #browserbox{ background:#409CCB; }
+.win.opera #browserbox{ background:#CC0F16; }
+.win.ie6 #browserbox{ background:#CCCCCC; }
+.win.ie7 #browserbox{ background:#B0102A; }
+.win.ie8 #browserbox{ background:#F8D518; }
+.win.ie9 #browserbox{ background:#B63249; }
+.win.ie10 #browserbox{ background:#00A4EF; }
+.mac.chrome #browserbox{ background:#4BB549; }
+.mac.safari #browserbox{ background:#E1006A; }
+.mac.firefox #browserbox{ background:#4E69A3; }
+.ios #browserbox{ background:#682B67;}
+</style>
+<body>
+
+<p>Download browser-specific-css.js and include before closing &lt;/body&gt;. follow css styling guide <a href="http://www.idiotinside.com/browser-specific-css/">http://www.idiotinside.com/browser-specific-css/</a> </p>
+<div id="browserbox">
+</div>
+<code>
+&lt;script src="browser-specific-css.js"&gt;&lt;/script&gt; <br>
+&lt;style&gt;
+#browserbox{ width:70%;height:250px; background:#444; color:#FFF; text-align:center; padding:40px;}
+.win.firefox #browserbox{ background:#E07629; }
+.win.chrome #browserbox{ background:#4BB549; }
+.win.safari #browserbox{ background:#409CCB; }
+.win.opera #browserbox{ background:#CC0F16; }
+.win.ie6 #browserbox{ background:#CCCCCC; }
+.win.ie7 #browserbox{ background:#B0102A; }
+.win.ie8 #browserbox{ background:#F8D518; }
+.win.ie9 #browserbox{ background:#B63249; }
+.win.ie10 #browserbox{ background:#00A4EF; }
+.mac.safari #browserbox{ background:#E1006A; }
+.mac.firefox #browserbox{ background:#4E69A3; }
+.ios #browserbox{ background:#682B67;}
+&lt;/style&gt; 
+</code>
+<script src="browser-specific-css.js"></script>
+</body>
+</html>
